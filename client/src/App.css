@@ -1,0 +1,17 @@
+.iconfb{
+    display: flex;
+    justify-content: space-between;
+}
+
+.homebar{
+    height: 100px;
+    margin-top: -18px;
+    
+}
+.enable{color: green;margin: 10px;width: 30px;height:20px;}
+.disable{color: red;margin: 10px;width: 50px;}
+.alluser{margin: 100px;}
+
+
+
+
